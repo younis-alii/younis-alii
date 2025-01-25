@@ -1,79 +1,122 @@
 # Younis Ali  
+
+![Profile Image](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/profile.png)
+
 ### Electrical & Electronics Engineer
 
-![Header Image](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/header.png)
+---
+
+## 📖 Table of Contents
+- [👨‍💻 About Me](#about-me)
+- [🔧 Skills](#skills)
+- [📂 Projects](#projects)
+- [🎓 Education](#education)
+- [🏆 Achievements](#achievements)
+- [🌱 Social Contributions](#social-contributions)
+- [🎓 Certifications](#certifications)
+- [📘 Currently Learning](#currently-learning)
+- [🚀 Future Goals](#future-goals)
+- [📫 Connect with Me](#connect-with-me)
 
 ---
 
-## 👋 Hi there!
-I’m **Younis Ali**, a passionate Electrical and Electronics Engineer specializing in **high-frequency applications**, **robotics**, and **machine learning**. With 3 years of experience in these fields, I’ve worked on diverse projects, honed my skills in cutting-edge technologies, and actively contributed to research innovations.  
+## 👨‍💻 About Me
+Hello! I am **Younis Ali**, a passionate Electrical and Electronics Engineer specializing in **Python**, **Data Analytics**, **Robotics**, **Machine Learning**, and **IoT-based projects**. I am committed to leveraging my skills to create innovative solutions that drive progress in the field of technology.
 
 ---
 
-## 🔧 Expertise
-Passionate about crafting innovative solutions, I specialize in the following domains:  
-- **Programming & Tools:** Python, MATLAB, TensorFlow, HFSS  
-- **IoT & Prototyping:** Arduino, Raspberry Pi, Multisim  
-- **Robotics:** Autonomous navigation, ML-based task learning  
-- **Data Analytics:** Predictive modeling, data visualization  
+## 🔧 Skills
 
-In my journey, I’ve co-authored impactful research, collaborated with international teams, and embraced leadership roles to guide successful project implementations.  
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF7200?style=for-the-badge&logo=MathWorks&logoColor=white)
 
----
+- **Languages:** Python, MATLAB
+- **IoT Platforms:** Arduino, Raspberry Pi
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** TensorFlow, Scikit-learn
+- **Simulation Tools:** Multisim, HFSS, Packet Tracer
+- **Prototyping:** Advanced Fab Lab Access
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-brightgreen?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Prototyping-purple?style=for-the-badge" />
-</p>
+### Project Expertise
+- **IoT Applications**: Smart home systems, real-time monitoring solutions
+- **Robotics**: Path planning, autonomous navigation
+- **High Frequencies**: Antenna design, radar systems
+- **Data Analytics**: Insights extraction, predictive modeling
 
 ---
 
 ## 📂 Projects
-### 1️⃣ **Smart Irrigation System (IoT-based)**  
-- 🚀 Optimized water usage using real-time soil monitoring sensors integrated with IoT platforms.  
-- Tools: Arduino, Python  
 
-### 2️⃣ **Robotic Arm with Machine Learning**  
-- 🤖 Designed an intelligent robotic arm capable of autonomous navigation and task learning via reinforcement algorithms.  
-- Tools: TensorFlow, Python  
+### 1. **Smart Irrigation System (IoT-based)** 🌱
+- **Technologies:** Arduino, IoT, Python
+- Designed an intelligent system to optimize water usage using soil moisture sensors and real-time monitoring via IoT platforms.
+- [GitHub Repository](https://github.com/your-project-link)
 
-### 3️⃣ **Triple-Mode Coaxial Bandpass Filter (Research)**  
-- 📡 Enhanced radar and satellite systems through innovative design for improved selectivity and efficiency.  
-- Published in high-frequency engineering journals.  
+### 2. **Robotic Arm with Machine Learning Integration** 🤖
+- **Technologies:** Reinforcement Learning, TensorFlow
+- Created a robotic arm capable of learning tasks through reinforcement learning algorithms.
+
+### 3. **Highly Compact Triple-Mode Resonance Coaxial Waveguide Bandpass Filter** 📡
+- **Technologies:** HFSS, MATLAB
+- Co-authored research paper enhancing radar and satellite communication systems by improving selectivity and efficiency.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Electrical & Electronics Engineering**  
+  Sukkur IBA University, Pakistan (2022 - Present)  
+  - GPA: 3.56/4.0
 
 ---
 
 ## 🏆 Achievements
-- **Meritorious Scholarship:** Ranked among the top 5, securing full tuition funding.  
-- **Top 20 Student Recognition:** Received a laptop from the Government of Pakistan.  
-- **Research Contributions:** Published impactful papers on robotics and high frequencies.  
+
+- **Meritorious Four-Year Scholarship**  
+  Ranked in the top five of my category.
+
+- **Laptop Award**  
+  Recognized as one of the top 20 students in my department.
+
+- **Research Publications**  
+  Contributed to advancements in high-frequency applications and robotics.
 
 ---
 
-## 🌟 Beyond Work
-- **Social Initiatives:**  
-  - Volunteered for disaster relief and educational drives at **Imamia Welfare Organization**.  
-  - Promoted sustainability via **Grow Green Organization**.  
-
-- **Memberships:**  
-  - Active in **IEEE**, collaborating globally and attending international webinars.  
+## 🌱 Social Contributions
+- Member of **IEEE**, actively participating in global webinars and projects.
+- Volunteer at **Imamia Welfare Organization**, offering free educational sessions and tutoring.
+- Advocate for **Green Initiatives**, promoting sustainable practices through the **Grow Green Organization**.
 
 ---
 
-## 📫 Connect with Me  
-<p align="center">
-  <a href="mailto:younis.ali@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/younis-ali"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/younis-ali"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## 🎓 Certifications
+- [Google Data Analytics](https://link-to-certificate)
+- [Python for Everyone](https://link-to-certificate)
 
 ---
 
-![Footer Image](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/footer.png)
+## 📘 Currently Learning
+- Advanced Antenna Design
+- Robotics Frameworks
+- Machine Learning Optimization
 
 ---
 
+## 🚀 Future Goals
+- Develop a fully autonomous robot.
+- Publish two more research papers in high-frequency applications.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/younis-ali) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/younis-ali)
+
+- **Email:** [younis.ali@example.com](mailto:younis.ali@example.com)  
+- **LinkedIn:** [linkedin.com/in/younis-ali](https://linkedin.com/in/younis-ali)  
+- **GitHub:** [github.com/younis-ali](https://github.com/younis-ali)
+
+---
+
+🚀 **Feel free to reach out for collaborations or discussions! Let's innovate together.**
